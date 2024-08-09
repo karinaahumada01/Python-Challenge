@@ -1,7 +1,7 @@
 # Python-Challenge
 Homework Assignment #3
 
-References 
+# References 
 
 # PyPoll/main.py: formatting Ln 40 & 52
 Craven, P. V. (2017). Program arcade games with python and pygame. Program Arcade Games With Python And Pygame. http://programarcadegames.com/index.php?chapter=formatting&lang=en 
